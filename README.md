@@ -29,7 +29,7 @@
 | 後端      | Node.js、Express           | 提供伺服器邏輯與 API 開發。                                               |
 | 資料庫    | MongoDB                    | 儲存與管理網站資料，支援快速查詢與操作功能。                              |
 
-## 簡報(Canva)  
+## 簡報(PDF)  
 [海生館專題報告.pdf](https://github.com/user-attachments/files/19564323/default.pdf)
 
 
