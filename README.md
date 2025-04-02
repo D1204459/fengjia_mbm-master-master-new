@@ -28,8 +28,10 @@
 
 ![螢幕擷取畫面 2025-04-02 144745](https://github.com/user-attachments/assets/5c5f8a96-8f3a-4fe3-979e-5bf373f2aa9f)
 
-      ![螢幕擷取畫面 2025-04-02 144812](https://github.com/user-attachments/assets/f38f3d14-6629-4425-bf3b-b81b93e871b2)
+![螢幕擷取畫面 2025-04-02 144812](https://github.com/user-attachments/assets/f38f3d14-6629-4425-bf3b-b81b93e871b2)
 
+                                                      互動專區功能
+![螢幕擷取畫面 2025-04-02 145131](https://github.com/user-attachments/assets/6d19cf50-ecd9-4147-baa1-5a1c37f335c8)
 
 
 技術架構
