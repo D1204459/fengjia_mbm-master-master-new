@@ -24,6 +24,11 @@
                                                         首頁內容
 ![螢幕擷取畫面 2025-04-02 143724](https://github.com/user-attachments/assets/6fd5edf2-01bc-41ae-8d55-e573b8429aa6)
 
+                                                        訂票功能
+
+![螢幕擷取畫面 2025-04-02 144745](https://github.com/user-attachments/assets/5c5f8a96-8f3a-4fe3-979e-5bf373f2aa9f)![螢幕擷取畫面 2025-04-02 144812](https://github.com/user-attachments/assets/f38f3d14-6629-4425-bf3b-b81b93e871b2)
+
+
 
 技術架構
 前端：Vue.js + Tailwind CSS
