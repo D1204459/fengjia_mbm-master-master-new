@@ -15,16 +15,20 @@
 
 🔧 後台管理系統
 
-管理員可設定部門權限、調整團隊角色與權限
+   管理員可設定部門權限、調整團隊角色與權限
 
-支援主管指派任務、設定代理主管
+   支援主管指派任務、設定代理主管
                                                         首頁內容
 ![螢幕擷取畫面 2025-04-02 143724](https://github.com/user-attachments/assets/6fd5edf2-01bc-41ae-8d55-e573b8429aa6)
 
 
 技術架構
 前端：Vue.js + Tailwind CSS
+
 後端：Node.js + Express
+
 資料庫：MongoDB
+
 即時通知：LINE Notify API
+
 開發環境：WebStorm
